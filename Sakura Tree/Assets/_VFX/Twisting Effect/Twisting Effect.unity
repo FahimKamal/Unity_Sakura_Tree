@@ -254,7 +254,7 @@ GameObject:
   - component: {fileID: 726381748}
   - component: {fileID: 726381747}
   m_Layer: 0
-  m_Name: VFX_LightUp
+  m_Name: Twisting Particles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -333,10 +333,10 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.002
+      - m_Value: 0.07
         m_Name: Turbulence
         m_Overridden: 1
-      - m_Value: 1
+      - m_Value: 0.665
         m_Name: Particle Size
         m_Overridden: 1
     m_Vector2f:
@@ -353,7 +353,10 @@ VisualEffect:
         m_Name: Transform_scale
         m_Overridden: 1
     m_Vector4f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 0.90779626, y: 3.8527064, z: 12.830189, w: 1}
+        m_Name: Color
+        m_Overridden: 1
     m_Uint:
       m_Array: []
     m_Int:
