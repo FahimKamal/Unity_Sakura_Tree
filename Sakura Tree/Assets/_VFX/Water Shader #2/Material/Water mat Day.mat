@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water mat
+  m_Name: Water mat Day
   m_Shader: {fileID: -6465566751694194690, guid: a036dfdf84ae4b64e8d3e39c19b75667,
     type: 3}
   m_Parent: {fileID: 0}
@@ -58,8 +58,8 @@ Material:
     - Vector1_b2f32d327e014656be4ca60992a874c0: 0
     - Vector1_d8728347b8624158b3d3f6fa0566e3e3: 1.5
     - Vector1_dfc283ceb1e84386b1272943867179df: 1.32
-    - Vector1_e9d48aad020e471d90586ecd66a58bba: 2.44
-    - Vector1_f74760b0e0be4895a552756b152c45b6: 0.16
+    - Vector1_e9d48aad020e471d90586ecd66a58bba: 2
+    - Vector1_f74760b0e0be4895a552756b152c45b6: 0.078
     - Vector1_ff094f67ed9f44eda464e2961da44d95: 1.24
     - _QueueControl: 0
     - _QueueOffset: 0
