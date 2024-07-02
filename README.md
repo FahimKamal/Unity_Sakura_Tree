@@ -1,6 +1,6 @@
 # Unity Sakura Tree
 Animated Sakura Tree created by following a Youtube tutorial. The size of tree, color of 
-leaves and animations all can be modified as needed. 
+leaves and animations all can be modified as needed. Watch the tutorial [here](https://youtu.be/0Mn2YzN9iDk?si=zwF9jIPphw6WNCnG).
 
 https://github.com/FahimKamal/Unity_Sakura_Tree/assets/47342396/4d0c0b97-40bc-45bc-9bbc-c0e219bcf90a
 
